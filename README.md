@@ -40,9 +40,9 @@ AT-Web-Creations is a student-led web design and development brand dedicated to 
 Student Web Developer
 
 ## Contact
-Email: your-email@example.com
+Email: ayandathabethe66@gmail.com
 
-Phone: +27 XX XXX XXXX
+Phone: +27 72 281 1241
 
 ##  License
 © 2026 AT-Web-Creations. All rights reserved.
